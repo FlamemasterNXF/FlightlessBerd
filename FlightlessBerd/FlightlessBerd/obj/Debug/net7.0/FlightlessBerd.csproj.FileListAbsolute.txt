@@ -1,0 +1,15 @@
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\bin\Debug\net7.0\FlightlessBerd.exe
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\bin\Debug\net7.0\FlightlessBerd.deps.json
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\bin\Debug\net7.0\FlightlessBerd.runtimeconfig.json
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\bin\Debug\net7.0\FlightlessBerd.dll
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\bin\Debug\net7.0\FlightlessBerd.pdb
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\obj\Debug\net7.0\FlightlessBerd.csproj.AssemblyReference.cache
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\obj\Debug\net7.0\FlightlessBerd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\obj\Debug\net7.0\FlightlessBerd.AssemblyInfoInputs.cache
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\obj\Debug\net7.0\FlightlessBerd.AssemblyInfo.cs
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\obj\Debug\net7.0\FlightlessBerd.csproj.CoreCompileInputs.cache
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\obj\Debug\net7.0\FlightlessBerd.dll
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\obj\Debug\net7.0\refint\FlightlessBerd.dll
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\obj\Debug\net7.0\FlightlessBerd.pdb
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\obj\Debug\net7.0\FlightlessBerd.genruntimeconfig.cache
+C:\Users\flame\Documents\GitHub\FlightlessBerd\FlightlessBerd\FlightlessBerd\obj\Debug\net7.0\ref\FlightlessBerd.dll
