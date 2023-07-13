@@ -1,5 +1,4 @@
-# Planning
-This document was intended to plan for how to make the DreamBerd compiler.
+# [Spec](https://github.com/TodePond/DreamBerd)
 
 ## Overview
-Language: most likely c#
+idk
